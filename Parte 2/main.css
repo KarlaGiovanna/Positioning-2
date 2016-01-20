@@ -1,0 +1,21 @@
+.celeste{
+	width: 200px;
+	height: 200px;
+	background-color: #0048FB;
+
+}
+
+.verde { 
+	width: 100px;
+	height: 100px;
+	background-color: #387804;
+	position: absolute;
+	left: 4%;
+	top: 7%;
+}
+
+.negro{
+	width: 50px;
+	height: 50px;
+	background-color: #000000;
+}

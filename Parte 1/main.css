@@ -1,0 +1,21 @@
+.rosa{
+	width: 200px;
+	height: 200px;
+	background-color: #ED462F;
+
+}
+
+.morado { 
+	width: 100px;
+	height: 100px;
+	background-color: #752E80;
+	position: absolute;
+	left: 4%;
+	top: 7%;
+}
+
+.amarillo{
+	width: 50px;
+	height: 50px;
+	background-color: #FFF835;
+}
